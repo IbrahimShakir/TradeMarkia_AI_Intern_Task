@@ -1,0 +1,7 @@
+Backend: REST API with endpoints /health and /search.
+Document Storage: Database for storing documents.
+Encoding & Retrieval: Encoder for vectorizing documents and queries.
+Caching Mechanism: Choose an optimal caching solution.
+User Rate Limiting: Mechanism to limit API calls.
+Scraper Service: Background thread for scraping news articles.
+Dockerization: Dockerize the application for easy deployment.
