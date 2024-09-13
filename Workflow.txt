@@ -1,0 +1,12 @@
+document-retrieval-system/
+├── backend/
+│   ├── app.py
+│   ├── routes/
+│   ├── services/
+│   ├── models/
+│   └── utils/
+├── scraper/
+│   ├── scraper.py
+├── Dockerfile
+├── requirements.txt
+└── README.md
